@@ -7,3 +7,17 @@
 
 # STLデータ
 * [住箱2019 by YukiUchiumi](https://github.com/furuhashilab/jyubako4dronemapping/blob/master/3dmodels/Jyubako2019_scale100_YukiUchiumi.stl)
+
+
+# 外部データ(ライセンスはそれぞれの作者が所有)
+* snowpeak FDベンチRD
+https://3dwarehouse.sketchup.com/model/0c93415c-2515-4397-b6c3-d6da2a43440d/snowpeak-FD%E3%83%99%E3%83%B3%E3%83%81RD
+
+* snowpeak 焚き火台 S　ver.1
+https://3dwarehouse.sketchup.com/model/u15357f3f-178b-41c4-99c7-b801d4cc5d5d/snowpeak-%E7%84%9A%E3%81%8D%E7%81%AB%E5%8F%B0-S-ver1
+
+* snowpeak HD-tarp レクタL
+https://3dwarehouse.sketchup.com/model/0a58c780-fbf3-4ffe-8bd0-651018b1ea9d/snowpeak-HD-tarp-%E3%83%AC%E3%82%AF%E3%82%BFL
+
+* snowpeak FDチェアワイドRD
+https://3dwarehouse.sketchup.com/model/ua529b5d8-b505-41bc-9675-e8bd03c437b9/snowpeak-FD%E3%83%81%E3%82%A7%E3%82%A2%E3%83%AF%E3%82%A4%E3%83%89RD
