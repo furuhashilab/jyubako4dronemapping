@@ -21,3 +21,6 @@ https://3dwarehouse.sketchup.com/model/0a58c780-fbf3-4ffe-8bd0-651018b1ea9d/snow
 
 * snowpeak FDチェアワイドRD
 https://3dwarehouse.sketchup.com/model/ua529b5d8-b505-41bc-9675-e8bd03c437b9/snowpeak-FD%E3%83%81%E3%82%A7%E3%82%A2%E3%83%AF%E3%82%A4%E3%83%89RD
+
+* snowpeak フォールディングシェルフ ver.2
+https://3dwarehouse.sketchup.com/model/u7752270c-0340-4bb2-84f1-68ecc3eac3cd/snowpeak-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%A7%E3%83%AB%E3%83%95-ver2
